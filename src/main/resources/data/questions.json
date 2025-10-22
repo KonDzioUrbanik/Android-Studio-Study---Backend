@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Nie mam trudności skupieniu się na aktywnościach tam, gdzie jest dużo ludzi",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Decyzje zwykle podejmuje po zastanowieniu się i przeanalizowaniu możliwych skutków",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Mam trudność z przerywaniem wykonywania zadania, jeśli się w nie zaangażuję",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Ważne jest dla mnie to, by przeczytać instrukcję przed wykonaniem zadania, więc zawsze to robię",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Jeśli coś obiecam lub się zobowiążę, to zawsze dotrzymuję słowa",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Zwykle zmieniam kolejność lub porządek podczas wykonywania zadania",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Potrafię dobrze zorganizować zadania i aktywności, również dotyczące codziennych czynności",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Mam niską odporność na dystraktory",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Ciągle czegoś zapominam lub/i coś gubię",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Zwykle jestem na czas",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Nie mam problemu z doczytaniem książki do końca",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Mam problemy z planowaniem, inicjowaniem i doprowadzaniem zadań do końca",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Trudno mi skupić uwagę na czytanej treści",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  },
+  {
+    "question": "Lubię konwersacje towarzyskie i zwykle podążam za wątkiem rozmowy",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
+      { "answer": "Raczej się zgadzam", "points": 2 },
+      { "answer": "Raczej się nie zgadzam", "points": 3 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+    ]
+  },
+  {
+    "question": "Bardzo często zdarza mi się kończyć za innych wypowiedź zanim sami zdążą to zrobić",
+    "answers": [
+      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
+      { "answer": "Raczej się zgadzam", "points": 3 },
+      { "answer": "Raczej się nie zgadzam", "points": 2 },
+      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+    ]
+  }
+]
