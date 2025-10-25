@@ -23,6 +23,11 @@ public class QuestionsController {
         this.mapper = mapper;
     }
 
+    @GetMapping("/getByCategory")
+    public List<Questions> getByCategory(@RequestParam String category) {
+        return repo.findByCategory(category);
+    }
+
     // ✅ Android: GET /getQuestions (Retrofit)
     @GetMapping("/getQuestions")
     public List<Questions> getAll() {

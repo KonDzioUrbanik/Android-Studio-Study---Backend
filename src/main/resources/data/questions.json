@@ -1,137 +1,948 @@
 [
   {
     "question": "Nie mam trudności skupieniu się na aktywnościach tam, gdzie jest dużo ludzi",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Decyzje zwykle podejmuje po zastanowieniu się i przeanalizowaniu możliwych skutków",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Mam trudność z przerywaniem wykonywania zadania, jeśli się w nie zaangażuję",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Ważne jest dla mnie to, by przeczytać instrukcję przed wykonaniem zadania, więc zawsze to robię",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Jeśli coś obiecam lub się zobowiążę, to zawsze dotrzymuję słowa",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Zwykle zmieniam kolejność lub porządek podczas wykonywania zadania",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Potrafię dobrze zorganizować zadania i aktywności, również dotyczące codziennych czynności",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Mam niską odporność na dystraktory",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Ciągle czegoś zapominam lub/i coś gubię",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Zwykle jestem na czas",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Nie mam problemu z doczytaniem książki do końca",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Mam problemy z planowaniem, inicjowaniem i doprowadzaniem zadań do końca",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Trudno mi skupić uwagę na czytanej treści",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
     ]
   },
   {
     "question": "Lubię konwersacje towarzyskie i zwykle podążam za wątkiem rozmowy",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 1 },
-      { "answer": "Raczej się zgadzam", "points": 2 },
-      { "answer": "Raczej się nie zgadzam", "points": 3 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 4 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 1
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 4
+      }
     ]
   },
   {
     "question": "Bardzo często zdarza mi się kończyć za innych wypowiedź zanim sami zdążą to zrobić",
+    "category": "adhd",
     "answers": [
-      { "answer": "Zdecydowanie się zgadzam", "points": 4 },
-      { "answer": "Raczej się zgadzam", "points": 3 },
-      { "answer": "Raczej się nie zgadzam", "points": 2 },
-      { "answer": "Zdecydowanie się nie zgadzam", "points": 1 }
+      {
+        "answer": "Zdecydowanie się zgadzam",
+        "points": 4
+      },
+      {
+        "answer": "Raczej się zgadzam",
+        "points": 3
+      },
+      {
+        "answer": "Raczej się nie zgadzam",
+        "points": 2
+      },
+      {
+        "answer": "Zdecydowanie się nie zgadzam",
+        "points": 1
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni czułaś_eś poddenerwowanie, niepokój, uczucie znacznego napięcia?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni nie mogłaś_eś przestać się martwić i zapanować nad tym?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni za bardzo martwiłaś_eś się różnymi rzeczami?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni miałaś_eś problem ze zrelaksowaniem się?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni byłaś_eś tak niespokojny, że było Ci trudno usiedzieć na miejscu?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni łatwo odczuwałaś_eś rozdrażnienie lub poirytowanie?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jak często w ciągu ostatnich 2 tygodni obawiałaś_eś się, że stanie się coś strasznego?",
+    "category": "anxiety",
+    "answers": [
+      {
+        "answer": "Wcale",
+        "points": 0
+      },
+      {
+        "answer": "Kilka dni",
+        "points": 1
+      },
+      {
+        "answer": "Więcej niż połowę dni",
+        "points": 2
+      },
+      {
+        "answer": "Niemal codziennie/codziennie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Odczuwanie smutku i przygnębienia",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie jestem smutny ani przygnębiony",
+        "points": 0
+      },
+      {
+        "answer": "Często odczuwam smutek i przygnębienie",
+        "points": 1
+      },
+      {
+        "answer": "Przeżywam stale smutek, nie mogę się od niego uwolnić",
+        "points": 2
+      },
+      {
+        "answer": "Jestem stale smutny i nieszczęśliwy, jest to nie do wytrzymania",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Martwienie się o przyszłość",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie przejmuję się zbytnio swoją przyszłością",
+        "points": 0
+      },
+      {
+        "answer": "Często martwię się o swoją przyszłość",
+        "points": 1
+      },
+      {
+        "answer": "Obawiam się, że w przyszłości nic dobrego mnie nie czeka",
+        "points": 2
+      },
+      {
+        "answer": "Czuję, że przyszłość jest beznadziejna i nic tego nie zmieni",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Uważasz, że zaniedbujesz swoje obowiązki?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Sądzę, że nie czynię większych zaniedbań",
+        "points": 0
+      },
+      {
+        "answer": "Sądzę, że czynię więcej zaniedbań niż inni",
+        "points": 1
+      },
+      {
+        "answer": "Kiedy zastanawiam się nad sobą, widzę mnóstwo błędów i zaniedbań",
+        "points": 2
+      },
+      {
+        "answer": "Jestem zupełnie niewydolny i wszystko robię źle",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jesteś zadowolona/y z siebie?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "To co robię sprawia mi przyjemność",
+        "points": 0
+      },
+      {
+        "answer": "Nie cieszy mnie to co robię",
+        "points": 1
+      },
+      {
+        "answer": "Nic mi teraz nie daje prawdziwego zadowolenia",
+        "points": 2
+      },
+      {
+        "answer": "Nie potrafię przeżywać zadowolenia i przyjemności. Wszystko mnie nuży",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy często masz poczucie winy?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie czuję się winny ani wobec siebie, ani wobec innych",
+        "points": 0
+      },
+      {
+        "answer": "Dosyć często mam wyrzuty sumienia",
+        "points": 1
+      },
+      {
+        "answer": "Bardzo często czuję, że zawiniłem",
+        "points": 2
+      },
+      {
+        "answer": "Stale mam poczucie winy",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy zasługujesz na karę?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Sądzę, że nie zasługuję na karę",
+        "points": 0
+      },
+      {
+        "answer": "Sądzę, że zasługuję na karę",
+        "points": 1
+      },
+      {
+        "answer": "Spodziewam się ukarania",
+        "points": 2
+      },
+      {
+        "answer": "Wiem, że jestem karany",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Zadowolenie z siebie",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Jestem z siebie zadowolony",
+        "points": 0
+      },
+      {
+        "answer": "Nie jestem z siebie zadowolony",
+        "points": 1
+      },
+      {
+        "answer": "Czuję do siebie niechęć",
+        "points": 2
+      },
+      {
+        "answer": "Nienawidzę siebie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy czujesz się gorsza/y od innych?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie czuję się gorsza/y od innych ludzi",
+        "points": 0
+      },
+      {
+        "answer": "Zarzucam sobie, że jestem nieudolna/y i popełniam błędy",
+        "points": 1
+      },
+      {
+        "answer": "Stale potępiam siebie za popełnione błędy",
+        "points": 2
+      },
+      {
+        "answer": "Winię siebie za całe zło, które istnieje",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy masz myśli samobójcze?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie myślę o odebraniu sobie życia",
+        "points": 0
+      },
+      {
+        "answer": "Myślę o samobójstwie - ale nie mógłbym tego dokonać",
+        "points": 1
+      },
+      {
+        "answer": "Pragnę odebrać sobie życie",
+        "points": 2
+      },
+      {
+        "answer": "Popełnię samobójstwo, jak będzie odpowiednia sposobność",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Często chce Ci się płakać?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie płaczę częściej niż zwykle",
+        "points": 0
+      },
+      {
+        "answer": "Płaczę częściej niż dawniej",
+        "points": 1
+      },
+      {
+        "answer": "Ciągle chce mi się płakać",
+        "points": 2
+      },
+      {
+        "answer": "Chciałbym płakać, lecz nie jestem w stanie",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Jesteś ostatnio bardziej nerwowa/y i rozdrażniona/y?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie jestem bardziej rozdrażniona/y niż dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Jestem bardziej nerwowa/y i przykra/y niż dawniej",
+        "points": 1
+      },
+      {
+        "answer": "Stale jestem zdenerwowana/y lub rozdrażniona/y",
+        "points": 2
+      },
+      {
+        "answer": "Wszystko co dawniej mnie drażniło, stało się obojętne",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy zmieniło się coś w Twoim zainteresowaniu innymi ludźmi?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Ludzie interesują mnie jak dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Interesuję się ludźmi mniej niż dawniej",
+        "points": 1
+      },
+      {
+        "answer": "Utraciłem większość zainteresowań innymi ludźmi",
+        "points": 2
+      },
+      {
+        "answer": "Utraciłem wszelkie zainteresowania innymi ludźmi",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy ostatnio miewasz większe problemy z podejmowaniem różnych decyzji?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Decyzje podejmuję łatwo, tak jak dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Częściej niż kiedyś odwlekam podjęcie decyzji",
+        "points": 1
+      },
+      {
+        "answer": "Mam dużo trudności z podjęciem decyzji",
+        "points": 2
+      },
+      {
+        "answer": "Nie jestem w stanie podjąć żadnej decyzji",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy uważasz, że wyglądasz gorzej i mniej atrakcyjnie niż kiedyś?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Sądzę, że wyglądam nie gorzej niż dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Martwię się tym, że wyglądam staro i nie atrakcyjnie",
+        "points": 1
+      },
+      {
+        "answer": "Czuję, że wyglądam coraz gorzej",
+        "points": 2
+      },
+      {
+        "answer": "Jestem przekonany, że wyglądam okropnie i odpychająco",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy masz większe trudności z wykonywaniem różnych prac i zadań?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Mogę pracować jak dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Z trudem rozpoczynam każdą czynność",
+        "points": 1
+      },
+      {
+        "answer": "Z wielkim wysiłkiem zmuszam się do zrobienia czegokolwiek",
+        "points": 2
+      },
+      {
+        "answer": "Nie jestem w stanie nic robić",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Masz kłopoty ze snem?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Sypiam dobrze, jak zwykle",
+        "points": 0
+      },
+      {
+        "answer": "Sypiam gorzej niż dawniej",
+        "points": 1
+      },
+      {
+        "answer": "Rano budzę się 1-2 godzin za wcześnie i trudno jest mi ponownie usnąć",
+        "points": 2
+      },
+      {
+        "answer": "Budzę się kilka godzin za wcześnie i nie mogę usnąć",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy męczysz się bardziej niż zwykle?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie męczę się bardziej niż dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Męczę się znacznie łatwiej niż kiedyś",
+        "points": 1
+      },
+      {
+        "answer": "Męczę się wszystkim co robię",
+        "points": 2
+      },
+      {
+        "answer": "Jestem zbyt zmęczony, aby cokolwiek robić",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy masz kłopoty z apetytem?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Mam apetyt nie gorszy niż dawniej",
+        "points": 0
+      },
+      {
+        "answer": "Mam trochę gorszy apetyt",
+        "points": 1
+      },
+      {
+        "answer": "Apetyt mam wyraźnie gorszy",
+        "points": 2
+      },
+      {
+        "answer": "Nie mam w ogóle apetytu",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "W ciągu ostatniego miesiąca nie stosowałam/em diety, aby schudnąć, lecz straciłem na wadze:",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie tracę na wadze ciała (w okresie ostatniego miesiąca)",
+        "points": 0
+      },
+      {
+        "answer": "Straciłam/em na wadze więcej niż 2 kg",
+        "points": 1
+      },
+      {
+        "answer": "Straciłam/em na wadze więcej niż 4 kg",
+        "points": 2
+      },
+      {
+        "answer": "Straciłam/em na wadze więcej niż 6 kg",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy ostatnio bardziej martwisz się swoim stanem zdrowia?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Nie martwię się o swoje zdrowie bardziej niż zawsze",
+        "points": 0
+      },
+      {
+        "answer": "Martwię się swoimi dolegliwościami, mam rozstrój żołądka, zaparcie, bóle",
+        "points": 1
+      },
+      {
+        "answer": "Stan mego zdrowia bardzo mnie martwi, często o tym myślę",
+        "points": 2
+      },
+      {
+        "answer": "Tak bardzo martwię się o swoje zdrowie, że nie mogę o niczym innym myśleć",
+        "points": 3
+      }
+    ]
+  },
+  {
+    "question": "Czy masz kłopoty z potencją?",
+    "category": "depression",
+    "answers": [
+      {
+        "answer": "Moje zainteresowania seksualne nie uległy zmianom",
+        "points": 0
+      },
+      {
+        "answer": "Jestem mniej zainteresowany sprawami seksu",
+        "points": 1
+      },
+      {
+        "answer": "Seks wyraźnie mniej mnie interesuje",
+        "points": 2
+      },
+      {
+        "answer": "Zupełnie straciłem zainteresowanie sprawami seksu",
+        "points": 3
+      }
     ]
   }
 ]
