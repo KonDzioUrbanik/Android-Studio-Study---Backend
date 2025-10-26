@@ -1,33 +1,52 @@
-HELP.md
+# --- Build artifacts ---
 target/
-.mvn/wrapper/maven-wrapper.jar
+build/
 !**/src/main/**/target/
 !**/src/test/**/target/
-
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-
-### IntelliJ IDEA ###
-.idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### VS Code ###
+# --- Maven wrapper (POWINIEN być w repo) ---
+.mvn/wrapper/maven-wrapper.properties
+
+# --- IDE ---
+.idea/
+*.iml
+*.ipr
+*.iws
+.sts4-cache
+.classpath
+.project
+.settings/
+.apt_generated
+.factorypath
 .vscode/
+
+# --- Logs / tmp ---
+logs/
+*.log
+*.out
+*.tmp
+*.swp
+*.swo
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Secrets / env ---
+.env
+.env.*
+.secrets
+*.jks
+*.keystore
+
+# --- Spring config (IGNORUJEMY prawdziwe pliki z sekretami) ---
+/src/main/resources/application.properties
+/src/main/resources/application.yml
+/src/main/resources/application-*.properties
+/src/main/resources/application-*.yml
+
+# ZOSTAW w repo wzór bez sekretów:
+!src/main/resources/application-example.properties
+!src/main/resources/application-example.yml

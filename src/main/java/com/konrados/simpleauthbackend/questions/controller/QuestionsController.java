@@ -23,13 +23,13 @@ public class QuestionsController {
         this.mapper = mapper;
     }
 
-    @GetMapping("/getByCategory")
+    @GetMapping("/api/getByCategory")
     public List<Questions> getByCategory(@RequestParam String category) {
         return repo.findByCategory(category);
     }
 
     // ✅ Android: GET /getQuestions (Retrofit)
-    @GetMapping("/getQuestions")
+    @GetMapping("/api/getQuestions")
     public List<Questions> getAll() {
         return repo.findAll();
     }
@@ -41,7 +41,7 @@ public class QuestionsController {
     }
 
     // Ręczny re-import z pliku JSON
-    @PostMapping("/import")
+    @PostMapping("/api/import")
     public ResponseEntity<String> importQuestions() {
         try (InputStream in = getClass().getResourceAsStream("/data/questions.json")) {
             if (in == null) {

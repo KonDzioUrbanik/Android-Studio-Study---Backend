@@ -20,13 +20,13 @@ public class UserController {
         this.userRepository = userRepository;
     }
 
-    @PostMapping("/register")
+    @PostMapping("/api/register")
     public String registerUser(@Valid @RequestBody User user) {
         userRepository.save(user);
         return "User registered successfully";
     }
 
-    @PostMapping("/login")
+    @PostMapping("/api/login")
     public String login(@Valid @RequestBody User user) {
         Optional<User> foundUser = userRepository.findByUsername(user.getUsername());
         if (foundUser.isPresent()) {
